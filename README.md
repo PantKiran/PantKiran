@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PantKiran
 - 👀 I’m interested in exploring new technologies
-- 🌱 I’m currently learning typeScript
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me kiran.r.pant@gmail.com
 
