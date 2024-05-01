@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PantKiran
+- 👋 Hi, I’m Kiran pant
 - 👀 I’m interested in exploring new technologies
 - 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on project
